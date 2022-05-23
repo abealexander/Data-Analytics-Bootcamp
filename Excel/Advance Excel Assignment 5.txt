@@ -1,0 +1,33 @@
+Advance Excel Assignment 5
+ 
+1. How many types of conditions are available in conditional formatting on Excel
+Following are some of the types of conditions available in conditional formatting on Excel:
+Greater than
+Less than
+Between
+Equal To
+Text that Contains
+A Date Cccurring
+Duplicate Values
+Top Bottom Rules
+
+2. How to insert border in Excel with Format Cells dialog
+i. In the format cells dialog box go to Border Tab
+ii. Under the Border Tab select the Line Style, Colors or choose one of the borders from the presets and click OK
+
+3. How to Format Numbers as Currency in Excel
+Under the Home Tab, Number, Click on the Dropdown and select Currency
+
+4. What are the steps to format numbers in Excel with the Percent style
+Under the Home Tab, Number, Click on the Percentage (%) icon
+
+5. What is a shortcut to merge two or more cells in excel
+By selecting the cells you want to merge and clicking the following in sequence
+ALT + H + M + M
+
+6. How do you use text commands in Excel 
+i. Select a Cell
+ii. Type the equal (=) sign
+iii. And enter the required text command
+
+=TEXT(Value you want to format, "Format code you want to apply")

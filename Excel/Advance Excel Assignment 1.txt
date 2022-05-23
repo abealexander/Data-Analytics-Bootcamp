@@ -1,0 +1,35 @@
+Advance Excel Assignment 1
+ 
+1. What do you mean by cells in an excel sheet
+A cell is a rectangle which is an intersection of a row and a column
+
+2. How can you restrict someone from copying a cell from your worksheet
+i. Right click the cell and click on format cells
+ii. Go to Protection and ensure checkmark is present in Locked
+iii. In the Menu Bar go to Review Tab and click on Protect Sheet
+iv. Untick Select locked cells and set a password
+v. Reenter password to confirm
+
+3. How to move or copy the worksheet into another workbook
+i. Right Click the sheet you want to move or copy
+ii. Select Move or Copy
+iii. If you want to move the worksheet into another workbook simply select the target workbook in the "To book" dropdown list and click OK
+iv. If you want to copy the worksheet into another workbook ensure a checkmark is present in "Create a copy" and simply select the workbook in the "To book" dropdown list and click OK
+
+4. Which key is used as a shortcut for opening a new window document
+CTRL + N
+
+5. What are the things that we can notice after opening the Excel interface
+i. Home
+ii. New
+iii. Open
+iv. Recents and Pinned
+v. Templates
+vi. Account
+vii. Feedback
+viii. Options
+
+If you open a blank workbook you can see the Quick Access Tool Bar, Menu Bar, Formula Bar, Worksheet with rows and columns and several other options.
+
+6. When to use a relative cell reference in excel
+ Relative cell reference is useful when the formula or calculation needs to be repeated accross multiple cells
