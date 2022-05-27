@@ -8,4 +8,5 @@ This dataset contains crimes reported in Baton Rouge city and investigated by th
 
 ## Tasks involved:
 ●	Perform ETL (Extract, Transform and Load) tasks to prepare the data for analysis purposes.
+
 ●	Perform various data visualization and analysis techniques and submit a detailed report such that the insights can directly be interpreted by officers and investigators in the field aiding them in their efforts to capture criminals and suppress criminal activity.
