@@ -10,12 +10,19 @@ Perform a SWOT analysis for the restaurant and report your findings.
 
 ## Consider the following important decisions for your analysis:
 What should be the concept or theme for the restaurant and who is the target audience?
+
 Examine the costs associated with the restaurant and come up with the solutions to maximize revenue.
+
 Decide where you want your restaurant to be located.
+
 What are the licenses and permits necessary to begin your restaurant business?
+
 What should be the hiring process for the people you need to run your restaurant business?
+
 What are the food preferences of the restaurant’s target customers?
+
 Research and compare different vendors and suppliers on the basis of different criteria and help the business owner optimize the recurrent cost.
+
 How to optimize the installation and maintenance cost of the essential equipment required to establish a restaurant business.
 
 Dataset: https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants
