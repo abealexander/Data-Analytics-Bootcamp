@@ -10,21 +10,35 @@ Educational technology (Ed-Tech) is a technology that typically aids in the faci
 Collect and analyze data of various competitive brands in the Ed-Tech industry and draw a comparison between them based. Some of the metrics that you can base your comparison on are as follows:
 
 Revenue Model
+
 Income
+
 Sales
+
 Product and Services offered
+
 Popularity
+
 Quality of content delivered
+
 Customer Satisfaction
+
 Placement Rate
+
 Return on Investment
+
 Marketing strategies
+
 Number of customers 
+
 Net Worth
+
 Customer reviews
 
 ## Tasks involved:
 
 ● Perform ETL (Extract, Transform and Load) tasks to prepare the data for analysis purposes.
+
 ● Perform various data visualization and analysis techniques and submit a detailed report such that the insights can directly be interpreted by a business owner aiding him/her set-up a new profitable Ed-Tech business and become an industry leader.
+
 ● On the basis of the conclusions derived from your analysis, create a report on how Indian Ed-Tech companies can compete in international markets. Draw a comparison between Indian Ed-Techs and international Ed-Techs and analyze the pros and cons of both.
